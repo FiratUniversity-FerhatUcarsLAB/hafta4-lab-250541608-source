@@ -1,5 +1,10 @@
 
-
+/*
+ * Ad Soyad: [Halid HACBEKKUR]
+ * Ogrenci No: [250541608]
+ * Tarih: [03.11.2025]
+ * Aciklama: [MaasHesap]
+ */
 import java.util.Scanner;
 
 public class MaasHesap {
