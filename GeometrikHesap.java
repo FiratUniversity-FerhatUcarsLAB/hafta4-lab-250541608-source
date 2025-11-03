@@ -1,4 +1,9 @@
-
+/*
+ * Ad Soyad: [Halid HACBEKKUR]
+ * Ogrenci No: [250541608]
+ * Tarih: [03.11.2025]
+ * Aciklama: [GeometrikHesap]
+ */
 import java.util.Scanner;
 
 public class GeometrikHesap {
